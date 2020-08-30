@@ -45,3 +45,6 @@ html {
   margin: auto;
   width: 50% !important;
 }
+
+/* El CSS esta bien, no tiene ningún problema, aunque personalmente me parece que
+es mejor tener un archivo CSS por cada HTML ya que es más fácil buscar  de esta forma*/
